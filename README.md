@@ -1,3 +1,3 @@
 # phb-reporting-tools
 
-Tools for producing [PHB-friendly](https://www.urbandictionary.com/define.php?term=PHB) reports and charts
+Tools for producing [PHB](https://www.urbandictionary.com/define.php?term=PHB)-friendly reports and charts
