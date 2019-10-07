@@ -1,0 +1,4 @@
+"Product","Serial Number","Name","Domain","State","Attached","Enrolled"
+"AManager","XXXX:XX:XX:XX:XX:XX:XX","Pippo @ pluto.pippo.it - X.X.X.X","TREE",Attached,n/a,1023-07-02
+"BManager","YYYY:YY:YY:YY:YY:YY:YY","Paperino","COW",Auto-attached,n/a,1019-09-25
+"CManager","ZZZZ:ZZ:ZZ:ZZ:ZZ:ZZ:ZZ","Quo","SHEEP",Attached,n/a,5019-07-11
